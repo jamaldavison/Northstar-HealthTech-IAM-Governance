@@ -10,20 +10,20 @@ The project uses **Northstar HealthTech**, a fictional healthcare technology org
 
 ## Explore the Portfolio
 
-**Recommended starting point:** Read **Document #8 — IAM Control Testing Simulation**, then **Document #7 — IAM Control Testing and Evidence Matrix**, followed by Documents #1–6 for the governance foundations.
+**Recommended starting point:** Read **Document #8 — IAM Control Testing Simulation**, then **[Document #7 — IAM Control Testing and Evidence Matrix](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Control_Testing_Evidence_Matrix_v1.0_Portfolio_Reviewed.docx)**, followed by Documents #1–6 for the governance foundations.
 
 | # | Deliverable | What it demonstrates |
 |---|---|---|
-| 1 | **IAM Governance Charter** | Governance structure, ownership, and accountability |
-| 2 | **Joiner, Mover, Leaver Procedure** | Employee identity lifecycle controls |
-| 3 | **Access Request and Approval Matrix** | Authorization and privileged-access governance |
-| 4 | **IAM Risk Assessment and Risk Register** | Risk identification, scoring, and treatment planning |
-| 5 | **Access Review and Certification Procedure** | Access certification and revocation processes |
-| 6 | **IAM Metrics and Governance Dashboard** | KPIs, formulas, and management reporting |
-| 7 | **IAM Control Testing and Evidence Matrix** | Control objectives, test procedures, and evidence requirements |
+| 1 | **[IAM Governance Charter](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Governance_Charter_v1.docx)** | Governance structure, ownership, and accountability |
+| 2 | **[Joiner, Mover, Leaver Procedure](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_JML_Procedure_v1.0_Portfolio_Reviewed.docx)** | Employee identity lifecycle controls |
+| 3 | **[Access Request and Approval Matrix](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Access_Request_Approval_Matrix_v1.0_Portfolio_Reviewed.docx)** | Authorization and privileged-access governance |
+| 4 | **[IAM Risk Assessment and Risk Register](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Risk_Assessment_Register_v1.0_Portfolio_Reviewed.docx)** | Risk identification, scoring, and treatment planning |
+| 5 | **[Access Review and Certification Procedure](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Access_Review_Certification_Procedure_v1.0_Portfolio_Reviewed.docx)** | Access certification and revocation processes |
+| 6 | **[IAM Metrics and Governance Dashboard](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance)** *(open repository and select dashboard workbook)* | KPIs, formulas, and management reporting |
+| 7 | **[IAM Control Testing and Evidence Matrix](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Control_Testing_Evidence_Matrix_v1.0_Portfolio_Reviewed.docx)** | Control objectives, test procedures, and evidence requirements |
 | 8 | **[IAM Control Testing Simulation](<https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Control_Testing_Simulation_v1.0_Portfolio_Reviewed.docx>)** | Fictional evidence analysis, failed retest, and escalation |
 
-**Navigation note:** Document #8 links directly to the GitHub file URL supplied by the project author. The remaining seven document links can be added once their exact paths are confirmed.
+**Link verification note:** Document #8 and Document #7 use links supplied by the project author. The links for Documents #1–5 are based on filenames of the portfolio files, and their exact GitHub paths still need a one-time check. Document #6 points to the repository until its final workbook filename is confirmed. This is an educational simulation, not production evidence.
 
 ## Featured Case Study: IAM Offboarding Control Testing
 
