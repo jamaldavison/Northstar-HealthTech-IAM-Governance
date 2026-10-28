@@ -19,11 +19,11 @@ The project uses **Northstar HealthTech**, a fictional healthcare technology org
 | 3 | **[Access Request and Approval Matrix](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Access_Request_Approval_Matrix_v1.0_Portfolio_Reviewed.docx)** | Authorization and privileged-access governance |
 | 4 | **[IAM Risk Assessment and Risk Register](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Risk_Assessment_Register_v1.0_Portfolio_Reviewed.docx)** | Risk identification, scoring, and treatment planning |
 | 5 | **[Access Review and Certification Procedure](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Access_Review_Certification_Procedure_v1.0_Portfolio_Reviewed.docx)** | Access certification and revocation processes |
-| 6 | **[IAM Metrics and Governance Dashboard](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance)** *(open repository and select dashboard workbook)* | KPIs, formulas, and management reporting |
+| 6 | **[IAM Metrics and Governance Dashboard](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Governance_Dashboard_v1.0_Portfolio_Reviewed.xlsx)** | KPIs, formulas, and management reporting |
 | 7 | **[IAM Control Testing and Evidence Matrix](https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Control_Testing_Evidence_Matrix_v1.0_Portfolio_Reviewed.docx)** | Control objectives, test procedures, and evidence requirements |
 | 8 | **[IAM Control Testing Simulation](<https://github.com/jamaldavison/Northstar-HealthTech-IAM-Governance/blob/main/Northstar_HealthTech_IAM_Control_Testing_Simulation_v1.0_Portfolio_Reviewed.docx>)** | Fictional evidence analysis, failed retest, and escalation |
 
-**Link verification note:** Document #8 and Document #7 use links supplied by the project author. The links for Documents #1–5 are based on filenames of the portfolio files, and their exact GitHub paths still need a one-time check. Document #6 points to the repository until its final workbook filename is confirmed. This is an educational simulation, not production evidence.
+**Link verification note:** All eight navigation links point to files confirmed in this public repository as of October 28, 2026. The fictional simulation is educational, not production evidence.
 
 ## Featured Case Study: IAM Offboarding Control Testing
 
