@@ -1,5 +1,8 @@
 # Northstar HealthTech — IAM Governance Portfolio
 
+**Recruiter quick start:** [Read the concise case study](CASE_STUDY.md) · [View the living résumé](https://jamal-davison-live-resume.lovable.app/)
+
+
 **Independent Identity and Access Management (IAM) Governance Simulation**
 
 This portfolio demonstrates my ability to develop structured IAM governance documentation, assess identity-related risks, design control-testing procedures, and analyze fictional control evidence.
